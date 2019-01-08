@@ -1,0 +1,11 @@
+C:\Users\user\Source\Repos\Stacks and Queues\Problem 3. Maximum Element\bin\Debug\netcoreapp2.1\Problem 3. Maximum Element.deps.json
+C:\Users\user\Source\Repos\Stacks and Queues\Problem 3. Maximum Element\bin\Debug\netcoreapp2.1\Problem 3. Maximum Element.runtimeconfig.json
+C:\Users\user\Source\Repos\Stacks and Queues\Problem 3. Maximum Element\bin\Debug\netcoreapp2.1\Problem 3. Maximum Element.runtimeconfig.dev.json
+C:\Users\user\Source\Repos\Stacks and Queues\Problem 3. Maximum Element\bin\Debug\netcoreapp2.1\Problem 3. Maximum Element.dll
+C:\Users\user\Source\Repos\Stacks and Queues\Problem 3. Maximum Element\bin\Debug\netcoreapp2.1\Problem 3. Maximum Element.pdb
+C:\Users\user\Source\Repos\Stacks and Queues\Problem 3. Maximum Element\obj\Debug\netcoreapp2.1\Problem 3. Maximum Element.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\Stacks and Queues\Problem 3. Maximum Element\obj\Debug\netcoreapp2.1\Problem 3. Maximum Element.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Stacks and Queues\Problem 3. Maximum Element\obj\Debug\netcoreapp2.1\Problem 3. Maximum Element.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\Stacks and Queues\Problem 3. Maximum Element\obj\Debug\netcoreapp2.1\Problem 3. Maximum Element.AssemblyInfo.cs
+C:\Users\user\Source\Repos\Stacks and Queues\Problem 3. Maximum Element\obj\Debug\netcoreapp2.1\Problem 3. Maximum Element.dll
+C:\Users\user\Source\Repos\Stacks and Queues\Problem 3. Maximum Element\obj\Debug\netcoreapp2.1\Problem 3. Maximum Element.pdb
